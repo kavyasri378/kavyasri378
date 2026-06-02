@@ -152,7 +152,7 @@ Building • Learning • Growing 🚀
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Poppins&ext=contest"/>
+<img src="https://leetcard.jacoblin.cool/Dkavyasri?theme=dark&font=Poppins&ext=contest"/>
 
 </div>
 
